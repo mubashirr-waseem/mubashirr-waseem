@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mubashir 👋
 
-<!--
-**mubashirr-waseem/mubashirr-waseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress Developer and Computer Science student passionate about creating modern, responsive websites and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- 🔧 WordPress | Elementor | ACF | WooCommerce
+- 🌐 HTML | CSS | JavaScript (working on it)
+- ☁️ Firebase | OpenAI API | TensorFlow.js (in academic projects)
+- 🛠 Git | GitHub | cPanel | MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+**BSCS** – Final Semester  
+Currently working on AI-integrated web projects at university.
+
+## 💼 Freelance Work
+Available for remote WordPress development and custom web projects.  
+Contact via GitHub or Email
+
+## 🌍 Location
+📍 Pakistan
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mubashir-waseem/)
+- 💻 [Facebook](https://www.facebook.com/mubashirr.waseem/)
