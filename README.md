@@ -4,8 +4,8 @@ I'm a WordPress Developer and Computer Science student passionate about creating
 
 ## 🚀 Skills & Tools
 - 🔧 WordPress | Elementor | ACF | WooCommerce
-- 🌐 HTML | CSS | JavaScript (working on it)
-- ☁️ Firebase | OpenAI API | TensorFlow.js (in academic projects)
+- 🌐 HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | React JS 
+- ☁️ Python | Firebase | OpenAI API | TensorFlow.js (in academic projects)
 - 🛠 Git | GitHub | cPanel | MySQL
 
 ## 📚 Education
